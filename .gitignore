@@ -1,0 +1,10 @@
+pkg/
+src/main/main
+src/main/main.exe
+main
+pushdlna
+*.log
+*.llog
+*.tmp
+.idea
+*.iml
