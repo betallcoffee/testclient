@@ -8,3 +8,5 @@ pushdlna
 *.tmp
 .idea
 *.iml
+temp
+testclient

@@ -1,0 +1,33 @@
+[
+
+{
+"request":
+{
+"method":"DeviceS.Add",
+"params":
+[{"UUID":"","Nick":"","MacAddr":"","SoftName":"testclient","SoftVersion":"add","OSName":"OSX","OSVersion":"10.9","HardName":"mac air","HardVersion":"","OtherJson":"","LlanIP":"192.168.2.153","DlnaURL":""}],
+"id":0
+},
+"response":
+{
+"result":"",
+"error":null
+}
+},
+
+{
+"request":
+{
+"method":"DeviceS.Add",
+"params":
+[{"UUID":"","Nick":"","MacAddr":"","SoftName":"testclient","SoftVersion":"add","OSName":"OSX","OSVersion":"10.9","HardName":"mac air","HardVersion":"","OtherJson":"","LlanIP":"192.168.2.153","DlnaURL":""}],
+"id":0
+},
+"response":
+{
+"result":"",
+"error":null
+}
+}
+
+]

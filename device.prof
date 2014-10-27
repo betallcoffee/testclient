@@ -1,0 +1,25 @@
+{
+"comment": "test device api",
+"host":"epgs01.hk.ottsys.net",
+"port":8082,
+"token":"",
+"appToken":"",
+
+"api":
+[
+{
+"comment":"add device",
+"performance":true,
+"net":"http",
+"keepAlive":false,
+"timeout":10,
+"httpMethod":"post",
+"path":"/jsonrpc/default",
+"protocol":"jsonrpc",
+"case": "add.case",
+"repeat":10000,
+"concurrency":500
+}
+]
+
+}
